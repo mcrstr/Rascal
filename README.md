@@ -1,5 +1,11 @@
 # Rascal
 
+<p align="center">
+  <img src="screenshots/Rascal_s0.png" alt="Title screen" width="32%">
+  <img src="screenshots/Rascal_s1.png" alt="Gameplay" width="32%">
+  <img src="screenshots/Rascal_s3.png" alt="Character screen" width="32%">
+</p>
+
 A roguelike game for the Apple IIe/IIc, heavily inspired by classic Rogue —
 built from scratch, not a port. Written in C for the [cc65](https://cc65.github.io/)
 cross-compiler, targeting the `apple2enh` platform.
