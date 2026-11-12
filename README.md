@@ -9,6 +9,16 @@
 A roguelike game for the Apple IIe/IIc. Written in C for the [cc65](https://cc65.github.io/)
 cross-compiler, targeting the `apple2enh` platform.
 
+What’s inside
+
+- Supports the enhanced Apple IIe (with an 80-column card) or the Apple IIc.
+- Fits on a single 140K self-booting ProDOS disk.
+- Three classes to choose from, each with its own starting gear.
+- Procedurally generated dungeons with cave-like mazes and special rooms.
+- Twelve kinds of monsters, a wandering merchant, and plenty of weapons and items.
+- Curses, hunger, save slots (on the same disk) and, of course, permadeath.
+- Written in C+asm for the cc65 compiler, split into 10 overlays.
+
 Design, graphic and code by mcrstr (Fyodor Melnikov), additional code by Claude (Anthropic).
 
 The instruction manual is attached to every release. See the [latest release](https://github.com/mcrstr/Rascal/releases/latest) for how to play.
